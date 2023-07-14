@@ -1,0 +1,15 @@
+ENVI
+samples = 2400
+lines   = 2504
+bands   = 1
+data type = 1
+interleave = bsq
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+classes = 6
+class names = {
+ Unclassified, ROCKS, URBAN, TRESS/VEG, CARBONATES, Class 5}
+class lookup = {
+   0,   0,   0, 196, 127,   0, 255, 255, 255,   0, 128,   0, 240, 240,   0,
+   0, 255, 255}
